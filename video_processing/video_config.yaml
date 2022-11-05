@@ -1,0 +1,3 @@
+input_path: '/home/mmandlem/Neocis_assessment/ML Assessment Data'
+output_path: '/home/mmandlem/Neocis_assessment/Image_data'
+meta_file_path: '/home/mmandlem/Neocis_assessment/Image_data/image_data_info.csv'

@@ -1,0 +1,9 @@
+torch==1.12
+torchvision==0.13
+pandas
+numpy
+pyyaml
+tqdm
+clearml
+tensorboard
+argparse
