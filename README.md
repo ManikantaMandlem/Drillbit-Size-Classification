@@ -1,5 +1,5 @@
 # Drillbit-Size-Classification
-To Classify images of drillbits attached to robotic arm based on these dimensions
+To Classify images of drillbits attached to robotic arm based on their dimensions
 
 ## Testing:
 - Test scripts are located in Inference folder
